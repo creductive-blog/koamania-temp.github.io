@@ -1,6 +1,3 @@
-collections:
-  redirects:
-    output: true
-    permalink: /:path/
+redirect_to: https://creductive.ga
 url: "https://blog.creductive.ga"
 theme: jekyll-theme-cayman
